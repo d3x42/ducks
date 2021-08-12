@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Charlie",
+    "weight": 15,
+    "age": 5,
+    "location": "RU",
+    "color": "green"
+  },
+  {
+    "name": "Jimmy",
+    "weight": 14,
+    "age": 3,
+    "location": "EN",
+    "color": "grey"
+  },
+  {
+    "name": "Stan",
+    "weight": 10,
+    "age": 7,
+    "location": "EN",
+    "color": "green"
+  },
+  {
+    "name": "Luci",
+    "weight": 12,
+    "age": 5,
+    "location": "RU",
+    "color": "yellow"
+  },
+  {
+    "name": "Amy",
+    "weight": 14,
+    "age": 3,
+    "location": "EN",
+    "color": "yellow"
+  },
+  {
+    "name": "Sam",
+    "weight": 6,
+    "age": 9,
+    "location": "IT",
+    "color": "yellow"
+  }
+]
