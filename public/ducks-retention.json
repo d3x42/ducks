@@ -1,0 +1,29 @@
+[{
+  "label": "Week 0",
+  "percent": 100,
+  "ci": [100, 100]
+}, {
+  "label": "Week 1",
+  "percent": 90,
+  "ci": [85, 105]
+}, {
+  "label": "Week 2",
+  "percent": 78,
+  "ci": [73, 87]
+}, {
+  "label": "Week 3",
+  "percent": 65,
+  "ci": [57, 74]
+}, {
+  "label": "Week 4",
+  "percent": 40,
+  "ci": [20, 45]
+}, {
+  "label": "Week 5",
+  "percent": 15,
+  "ci": [7, 26]
+}, {
+  "label": "Week 6",
+  "percent": 10,
+  "ci": [8, 20]
+}]

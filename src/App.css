@@ -2,3 +2,7 @@
     display: flex;
     flex-wrap: wrap;
 }
+
+.App_item {
+    margin: 16px;
+}
